@@ -1,4 +1,3 @@
-# What I learned: a variable only ever holds one value
 
 I built this project twice, on purpose — the first version taught me something, and the second version is me applying that lesson correctly.
 
