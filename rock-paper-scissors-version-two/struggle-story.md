@@ -1,4 +1,4 @@
-#four full rewrites, from noon to night, red eyes and a headache.
+##four full rewrites, from noon to night, red eyes and a headache.
 
 I built this right after Place the Rabbit — same day, no real break in between, just noon straight into night. And I built it the way I seem to build everything when a bug won't let go of me: I don't patch it. I rewrite the entire project from scratch. Every single time. Four versions of this game exist because four times, something was wrong, and four times, instead of hunting for the one broken line, I sat back down and started over completely — partly to fix it, partly because starting over is the only way I actually force myself to sit with the logic long enough to understand it, instead of just patching around what I don't yet get.
 
